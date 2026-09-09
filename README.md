@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Clearscope](https://www.clearscope.io/)**  
-  Premium content optimization platform known for clean A–F grading, rigorous term scoring, and editorial-friendly feedback for human-written drafts.
 
-- **[Surfer SEO](https://surferseo.com/)**  
-  Leading real-time Content Editor that scores drafts against SERP competitors with NLP recommendations, AI writing support, and broad workflow integrations.
-
-- **[MarketMuse](https://www.marketmuse.com/)**  
-  Topic authority and content strategy platform focused on inventory analysis, topic clusters, content audits, and large-scale planning beyond single-page scoring.
-
-- **[Frase](https://www.frase.io/)**  
-  Affordable all-in-one for AI-generated content briefs, SERP research, optimization scoring, and dual SEO/GEO visibility tracking.
-
-- **[NeuronWriter](https://neuronwriter.com/)**  
-  Budget-friendly NLP content optimizer with SERP-based scoring, entity analysis, and AI writing features popular with solo creators and small teams.
-
-- **[Dashword](https://dashword.com/)**  
-  Content optimization and briefing tool aimed at teams that want structured recommendations and workflow support.
-
-- **[WriterZen](https://writerzen.net/)**  
-  Keyword research and content optimization suite with clustering, brief generation, and on-page guidance.
-
-- **[Scalenut](https://www.scalenut.com/)**  
-  AI-powered content platform combining research, optimization scoring, and long-form writing assistance at accessible price points.
-
-- **[Outranking](https://www.outranking.io/)**  
-  Content optimization and AI writing tool focused on SERP analysis, outlines, and competitive content improvement.
-
-- **[SE Ranking Content](https://seranking.com/)**  
-  Content optimization module within the broader SE Ranking SEO platform, offering scoring and on-page recommendations alongside rank tracking and audits.
+| Product | Description | Starting Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Clearscope](https://www.clearscope.io/)** | Premium content optimization platform known for clean A–F grading, rigorous term scoring, and editorial-friendly feedback for human-written drafts. | Starts at $129/mo (Essentials plan, or $1,428/yr paid annually) | No free tier or trial; demo available upon request with a case-by-case refund policy. |
+| **[Surfer SEO](https://surferseo.com/)** | Leading real-time Content Editor that scores drafts against SERP competitors with NLP recommendations, AI writing support, and broad workflow integrations. | Starts at $59/mo (Discovery plan; $49/mo billed annually) or $95/mo (AI Search Analytics; $82/mo billed annually) | 7-day money-back guarantee on all plans (with active satisfaction support extension up to 30 days upon completing academy modules); no forever-free tier. |
+| **[MarketMuse](https://www.marketmuse.com/)** | Topic authority and content strategy platform focused on inventory analysis, topic clusters, content audits, and large-scale planning beyond single-page scoring. | Free forever tier available; paid plans start at $99/mo (Optimize plan; custom quote via demo) | Free forever plan: 10 queries/month, 1 user seat, Topic Navigator access (no tracked topics or briefs, no credit card required). |
+| **[Frase](https://www.frase.io/)** | Affordable all-in-one for AI-generated content briefs, SERP research, optimization scoring, and dual SEO/GEO visibility tracking. | Starts at $49/mo (Starter plan, or $39/mo billed annually) | 7-day free trial (full platform access including brief generation and optimizer, no credit card required); no forever-free tier. |
+| **[NeuronWriter](https://neuronwriter.com/)** | Budget-friendly NLP content optimizer with SERP-based scoring, entity analysis, and AI writing features popular with solo creators and small teams. | Starts at €23/mo (~$25/mo, Bronze plan, or €19/mo billed annually) | 7-day free trial with full Gold plan access (10 projects, 75 content analyses, no credit card required); no forever-free tier. |
+| **[Dashword](https://dashword.com/)** | Content optimization and briefing tool aimed at teams that want structured recommendations and workflow support. | Starts at $99/mo (Startup plan, or $79/mo billed annually) | 1 free content report/brief evaluation upon sign-up (no credit card required; up to 2 extra credits on completing optimization tasks); no forever-free tier. |
+| **[WriterZen](https://writerzen.net/)** | Keyword research and content optimization suite with clustering, brief generation, and on-page guidance. | Starts at $23/mo (Lite plan; or $75 one-time lifetime license) | 15-day free trial with full feature access (Keyword Explorer, Topic Discovery, Content Creator, no credit card required); no forever-free tier. |
+| **[Scalenut](https://www.scalenut.com/)** | AI-powered content platform combining research, optimization scoring, and long-form writing assistance at accessible price points. | Starts at $59/mo (Starter plan; often discounted to ~$24–$39/mo billed annually) | 7-day free trial with full platform access (up to 5–10 articles and AI visibility tracking; requires card); no forever-free tier. |
+| **[Outranking](https://www.outranking.io/)** | Content optimization and AI writing tool focused on SERP analysis, outlines, and competitive content improvement. | Starts at $29/mo (Starter plan, or $20/mo billed annually) | 7-day money-back guarantee / limited trial with 1 article analysis; no forever-free tier. |
+| **[SE Ranking Content](https://seranking.com/)** | Content optimization module within the broader SE Ranking SEO platform, offering scoring and on-page recommendations alongside rank tracking and audits. | Starts at $129/mo (Core plan; $103.20/mo billed annually) | 14-day free trial (10 projects, 750 tracked keywords/day, 20 AI prompts/day, 3 domains in AI research, no credit card required); no forever-free tier. |
 
 ## Open-Source GitHub Projects
 - **[content-optimizer](https://github.com/sharozdawa/content-optimizer)**  
