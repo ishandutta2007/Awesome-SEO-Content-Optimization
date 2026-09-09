@@ -71,43 +71,43 @@ This repository tracks notable **SaaS platforms** and **open-source projects** d
 
 Curated open-source engines, developer tools, and AI agent frameworks for self-hosted SEO content optimization, rank tracking, site auditing, and Generative Engine Optimization (GEO). Repositories are ranked in descending order by GitHub stargazers count:
 
-- **[OpenSEO](https://github.com/every-app/open-seo)** [![GitHub stars](https://img.shields.io/github/stars/every-app/open-seo?style=social&color=white)](https://github.com/every-app/open-seo/stargazers)  
+- **[OpenSEO](https://github.com/every-app/open-seo)** [![GitHub_Stars](https://img.shields.io/github/stars/every-app/open-seo?style=social&color=white)](https://github.com/every-app/open-seo/stargazers)  
   🌟 Comprehensive open-source alternative to Semrush and Ahrefs — keyword research, rank tracking, technical audits, and content workflow support powered by self-hosted architecture and DataForSEO integration.
 
-- **[SEOMachine](https://github.com/TheCraigHewitt/seomachine)** [![GitHub stars](https://img.shields.io/github/stars/TheCraigHewitt/seomachine?style=social&color=white)](https://github.com/TheCraigHewitt/seomachine/stargazers)  
+- **[SEOMachine](https://github.com/TheCraigHewitt/seomachine)** [![GitHub_Stars](https://img.shields.io/github/stars/TheCraigHewitt/seomachine?style=social&color=white)](https://github.com/TheCraigHewitt/seomachine/stargazers)  
   🤖 Specialized Claude Code agent workspace for researching, drafting, and optimizing long-form, rank-ready SEO content tailored to target audience intent.
 
-- **[SerpBear](https://github.com/towfiqi/serpbear)** [![GitHub stars](https://img.shields.io/github/stars/towfiqi/serpbear?style=social&color=white)](https://github.com/towfiqi/serpbear/stargazers)  
+- **[SerpBear](https://github.com/towfiqi/serpbear)** [![GitHub_Stars](https://img.shields.io/github/stars/towfiqi/serpbear?style=social&color=white)](https://github.com/towfiqi/serpbear/stargazers)  
   🐻 Self-hosted search engine rank tracking application with built-in keyword discovery, SERP scraping, performance charts, and notification alerts.
 
-- **[n8n SEO Templates](https://github.com/Marvomatic/n8n-templates)** [![GitHub stars](https://img.shields.io/github/stars/Marvomatic/n8n-templates?style=social&color=white)](https://github.com/Marvomatic/n8n-templates/stargazers)  
+- **[n8n SEO Templates](https://github.com/Marvomatic/n8n-templates)** [![GitHub_Stars](https://img.shields.io/github/stars/Marvomatic/n8n-templates?style=social&color=white)](https://github.com/Marvomatic/n8n-templates/stargazers)  
   ⚡ Automated workflow pipelines for keyword research, content briefs, programmatic SEO publishing, and competitor tracking using n8n automation.
 
-- **[LibreCrawl](https://github.com/PhialsBasement/LibreCrawl)** [![GitHub stars](https://img.shields.io/github/stars/PhialsBasement/LibreCrawl?style=social&color=white)](https://github.com/PhialsBasement/LibreCrawl/stargazers)  
+- **[LibreCrawl](https://github.com/PhialsBasement/LibreCrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/PhialsBasement/LibreCrawl?style=social&color=white)](https://github.com/PhialsBasement/LibreCrawl/stargazers)  
   🕷️ High-performance open-source technical SEO crawler and site auditor designed to diagnose on-page architecture, broken links, meta tags, and indexability issues.
 
-- **[SEONaut](https://github.com/StJudeWasHere/seonaut)** [![GitHub stars](https://img.shields.io/github/stars/StJudeWasHere/seonaut?style=social&color=white)](https://github.com/StJudeWasHere/seonaut/stargazers)  
+- **[SEONaut](https://github.com/StJudeWasHere/seonaut)** [![GitHub_Stars](https://img.shields.io/github/stars/StJudeWasHere/seonaut?style=social&color=white)](https://github.com/StJudeWasHere/seonaut/stargazers)  
   🧭 Open-source website crawler and SEO audit tool written in Go that scans sites to detect structural flaws, orphan pages, and content optimization issues.
 
-- **[Public SEO Scripts](https://github.com/searchsolved/search-solved-public-seo)** [![GitHub stars](https://img.shields.io/github/stars/searchsolved/search-solved-public-seo?style=social&color=white)](https://github.com/searchsolved/search-solved-public-seo/stargazers)  
+- **[Public SEO Scripts](https://github.com/searchsolved/search-solved-public-seo)** [![GitHub_Stars](https://img.shields.io/github/stars/searchsolved/search-solved-public-seo?style=social&color=white)](https://github.com/searchsolved/search-solved-public-seo/stargazers)  
   🐍 Battle-tested Python scripts and Streamlit apps for automated internal linking, keyword clustering, entity extraction, and content gap analysis.
 
-- **[eGEOagents](https://github.com/mverab/eGEOagents)** [![GitHub stars](https://img.shields.io/github/stars/mverab/eGEOagents?style=social&color=white)](https://github.com/mverab/eGEOagents/stargazers)  
+- **[eGEOagents](https://github.com/mverab/eGEOagents)** [![GitHub_Stars](https://img.shields.io/github/stars/mverab/eGEOagents?style=social&color=white)](https://github.com/mverab/eGEOagents/stargazers)  
   🧠 Cutting-edge open-source Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO) toolkit — analyzes and refactors content for visibility in ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews.
 
-- **[30x-SEO Skills](https://github.com/norahe0304-art/30x-seo)** [![GitHub stars](https://img.shields.io/github/stars/norahe0304-art/30x-seo?style=social&color=white)](https://github.com/norahe0304-art/30x-seo/stargazers)  
+- **[30x-SEO Skills](https://github.com/norahe0304-art/30x-seo)** [![GitHub_Stars](https://img.shields.io/github/stars/norahe0304-art/30x-seo?style=social&color=white)](https://github.com/norahe0304-art/30x-seo/stargazers)  
   🎯 23+ production-ready AI agent skills for Claude Code covering technical on-page audits, keyword clustering, semantic entity optimization, and AI search visibility.
 
-- **[seo_optimizer](https://github.com/cleven12/seo_optimizer)** [![GitHub stars](https://img.shields.io/github/stars/cleven12/seo_optimizer?style=social&color=white)](https://github.com/cleven12/seo_optimizer/stargazers)  
+- **[seo_optimizer](https://github.com/cleven12/seo_optimizer)** [![GitHub_Stars](https://img.shields.io/github/stars/cleven12/seo_optimizer?style=social&color=white)](https://github.com/cleven12/seo_optimizer/stargazers)  
   📊 CLI utility uniting traditional SEO checks with LLM recommendations (Gemini & OpenAI) for automated keyword matching and content readability improvement.
 
-- **[seobot](https://github.com/George3307/seobot)** [![GitHub stars](https://img.shields.io/github/stars/George3307/seobot?style=social&color=white)](https://github.com/George3307/seobot/stargazers)  
+- **[seobot](https://github.com/George3307/seobot)** [![GitHub_Stars](https://img.shields.io/github/stars/George3307/seobot?style=social&color=white)](https://github.com/George3307/seobot/stargazers)  
   🤖 Open-source AI SEO agent toolkit managing end-to-end keyword research, automated draft generation, and technical content audits.
 
-- **[content-optimizer](https://github.com/sharozdawa/content-optimizer)** [![GitHub stars](https://img.shields.io/github/stars/sharozdawa/content-optimizer?style=social&color=white)](https://github.com/sharozdawa/content-optimizer/stargazers)  
+- **[content-optimizer](https://github.com/sharozdawa/content-optimizer)** [![GitHub_Stars](https://img.shields.io/github/stars/sharozdawa/content-optimizer?style=social&color=white)](https://github.com/sharozdawa/content-optimizer/stargazers)  
   🎯 Open-source alternative to Surfer SEO — SERP-based scoring across 7 critical dimensions (keywords, word count, headings, readability, entities, depth, and structure) with MCP & API support.
 
-- **[seoagent](https://github.com/yagomp/seoagent)** [![GitHub stars](https://img.shields.io/github/stars/yagomp/seoagent?style=social&color=white)](https://github.com/yagomp/seoagent/stargazers)  
+- **[seoagent](https://github.com/yagomp/seoagent)** [![GitHub_Stars](https://img.shields.io/github/stars/yagomp/seoagent?style=social&color=white)](https://github.com/yagomp/seoagent/stargazers)  
   🛠️ Agent-first SEO toolkit equipped with keyword research, competitor gap analysis, technical site diagnostics, and automated AI strategy generation.
 
 ---
