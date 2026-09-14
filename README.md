@@ -77,6 +77,9 @@ Curated open-source engines, developer tools, and AI agent frameworks for self-h
 - **[SEOMachine](https://github.com/TheCraigHewitt/seomachine)** [![GitHub_Stars](https://img.shields.io/github/stars/TheCraigHewitt/seomachine?style=social&color=white)](https://github.com/TheCraigHewitt/seomachine/stargazers)  
   🤖 Specialized Claude Code agent workspace for researching, drafting, and optimizing long-form, rank-ready SEO content tailored to target audience intent.
 
+- **[NotFair Plugin](https://github.com/nowork-studio/notfair-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/nowork-studio/notfair-plugin?style=social&color=white)](https://github.com/nowork-studio/notfair-plugin/stargazers)  
+  🧰 Open-source collection of 45 Agent Skills for SEO, GEO/AEO, content, analytics, and paid-media workflows across Claude Code, Codex, Cursor, Gemini CLI, Hermes, and other compatible agents.
+
 - **[SerpBear](https://github.com/towfiqi/serpbear)** [![GitHub_Stars](https://img.shields.io/github/stars/towfiqi/serpbear?style=social&color=white)](https://github.com/towfiqi/serpbear/stargazers)  
   🐻 Self-hosted search engine rank tracking application with built-in keyword discovery, SERP scraping, performance charts, and notification alerts.
 
