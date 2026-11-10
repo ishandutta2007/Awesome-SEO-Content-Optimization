@@ -113,6 +113,9 @@ Curated open-source engines, developer tools, and AI agent frameworks for self-h
 - **[seoagent](https://github.com/yagomp/seoagent)** [![GitHub_Stars](https://img.shields.io/github/stars/yagomp/seoagent?style=social&color=white)](https://github.com/yagomp/seoagent/stargazers)  
   🛠️ Agent-first SEO toolkit equipped with keyword research, competitor gap analysis, technical site diagnostics, and automated AI strategy generation.
 
+- **[FlashData Google and YouTube Research Data](https://github.com/rocosen/flashdata-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/rocosen/flashdata-mcp?style=social&color=white)](https://github.com/rocosen/flashdata-mcp/stargazers)  
+  MIT CLI and MCP client supplying Google Search, News, Images, Shopping, Videos and Places plus YouTube search, extended search, metadata, transcripts, captions, channels and autocomplete as research inputs for content pipelines; API-key data calls use paid FlashData Credits, with no free data tier claimed.
+
 ---
 
 ## 🛠️ Frameworks for Building Custom SEO Engines
